@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "knoedelmithuhn",
+  "version": "@version@",
+  "name": "Knödel mit Huhn",
+  "authors": [
+    "spnda"
+  ],
+  "entrypoints": {
+    "main": [
+      "de.sean.knoedelmithuhn.KnoedelMitHuhn"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.16"
+  }
+}
