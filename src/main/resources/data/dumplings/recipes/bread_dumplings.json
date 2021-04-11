@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BBB",
+		"PPP",
+		"EME"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bread"
+		},
+		"P": {
+			"item": "minecraft:potato"
+		},
+		"E": {
+			"item": "minecraft:egg"
+		},
+		"M": {
+			"item": "minecraft:milk_bucket"
+		}
+	},
+	"result": {
+		"item": "dumplings:bread_dumplings",
+		"count": 6
+	}
+}
