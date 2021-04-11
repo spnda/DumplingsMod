@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cooked_chicken"
+        },
+        "W": {
+            "item": "knoedelmithuhn:knoedel"
+        }
+    },
+    "result": {
+        "item": "knoedelmithuhn:knoedel_mit_huhn",
+        "count": 1
+    }
+}

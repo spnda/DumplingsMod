@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"EME"
+	],
+	"key": {
+		"P": {
+			"item": "minecraft:potato"
+		},
+		"E": {
+			"item": "minecraft:egg"
+		},
+		"M": {
+			"item": "minecraft:milk_bucket"
+		}
+	},
+	"result": {
+		"item": "knoedelmithuhn:knoedel",
+		"count": 3
+	}
+}
