@@ -8,11 +8,11 @@
             "item": "minecraft:cooked_chicken"
         },
         "W": {
-            "item": "knoedelmithuhn:knoedel"
+            "item": "dumplings:dumplings"
         }
     },
     "result": {
-        "item": "knoedelmithuhn:knoedel_mit_huhn",
+        "item": "dumplings:dumplings_with_chicken",
         "count": 1
     }
 }

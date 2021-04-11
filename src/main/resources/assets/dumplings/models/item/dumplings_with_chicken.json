@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "knoedelmithuhn:item/knoedel"
+        "layer0": "dumplings:item/dumplings_with_chicken"
     }
 }

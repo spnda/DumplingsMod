@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "knoedelmithuhn",
+  "id": "dumplings",
   "version": "@version@",
-  "name": "Knödel mit Huhn",
+  "name": "Dumplings",
   "authors": [
     "spnda"
   ],
   "entrypoints": {
     "main": [
-      "de.sean.knoedelmithuhn.KnoedelMitHuhn"
+      "de.sean.dumplings.DumplingsMod"
     ]
   },
   "depends": {
